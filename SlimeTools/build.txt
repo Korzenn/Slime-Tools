@@ -1,0 +1,3 @@
+displayName = Slime Tools
+author = Korzen
+version = 0.1
